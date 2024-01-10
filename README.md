@@ -31,9 +31,6 @@ _STUDENT | FRONTEND WEB DEVELOPER_ 🚀
 <a href="https://twitter.com/Akansha_1213">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_yGgIJj8ggxJVaI1x3f3dnV94ODO4Ct-Fw&usqp=CAU" width="40" height="40" alt="Twitter Badge">
 </a>&nbsp
-<a href="akanshabharti1213@gmail.com">
-  <img src="https://c0.klipartz.com/pngpicture/260/143/gratis-png-gmail-iconos-de-la-computadora-email-google-gmail-thumbnail.png" width="40" height="40" alt="Email Badge">
-</a>
 
 
 
