@@ -7,7 +7,7 @@ _STUDENT | FRONTEND WEB DEVELOPER_ 🚀
 
 
 - 🔭 I’m currently working with _JavaScript, ReactJS_
-- 🌱 I’m currently learning & exploring  _ReactJS, Blockchain_ 
+- 🌱 I’m currently learning & exploring  _ReactJS, Blockchain, Django_ 
 - 👯 I’m looking to collaborate in _Web2 Based Hackathons_
 - 📫 How to reach me:  _[LinkedIn](https://www.linkedin.com/in/akansha-bharti/), [akanshabharti1213@gmail.com](akanshabharti1213@gmail.com)_
 - 😄 Pronouns: _She/her_
