@@ -25,7 +25,7 @@ _STUDENT | FRONTEND WEB DEVELOPER_ 🚀
 <code><img height="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-923x1024-37xcgdyl.png" alt="mysql"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
 
-# Connet with me
+# Connect with me
 <a href="https://www.linkedin.com/in/akansha-bharti/">
   <img src="https://assets-global.website-files.com/62573309268f9df7fb973ab8/630cdba01763f100980b090f_5e8fc7a5c3c15b69d9c87be0_1200px-Linkedin.svg.png" width="50" height="50" alt="LinkedIn Badge">&nbsp
 </a>
