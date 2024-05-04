@@ -7,7 +7,7 @@ _STUDENT | FRONTEND WEB DEVELOPER_ 🚀
 
 
 - 🔭 I’m currently working with _JavaScript, ReactJS_
-- 🌱 I’m currently learning & exploring  _ReactJS, Django, ML_ 
+- 🌱 I’m currently learning & exploring  _Django, ML_ 
 - 👯 I’m looking to collaborate in _Web2 and Web3 Based Hackathons_
 - 📫 How to reach me:  _[LinkedIn](https://www.linkedin.com/in/akansha-bharti/), [akanshabharti1213@gmail.com](akanshabharti1213@gmail.com), [Twitter](https://twitter.com/Akansha_1213)_
 - 😄 Pronouns: _She/her_
@@ -24,6 +24,7 @@ _STUDENT | FRONTEND WEB DEVELOPER_ 🚀
 <code><img height="40" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" alt="materialui"></code>
 <code><img height="40" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-923x1024-37xcgdyl.png" alt="mysql"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
+
 
 # Connect with me
 <a href="https://www.linkedin.com/in/akansha-bharti/">
