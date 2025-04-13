@@ -3,7 +3,7 @@
 # Hi there 😃, I am _Akansha Bharti_ 
 </div>
 
-_STUDENT | FRONTEND WEB DEVELOPER_ 🚀
+_FRONTEND DEVELOPER_ 🚀
 
 
 - 🔭 I’m currently working with _JavaScript, ReactJS_
