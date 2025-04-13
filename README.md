@@ -5,7 +5,7 @@
 
 _FRONTEND DEVELOPER_ 🚀
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 - 🔭 Currently shaping UI using _React.js_ and modern frontend practices
 - 💡 I’m passionate about building clean, user-focused UIs and optimizing performance
 - 👯 Open to collaborate in _Web2 Hackathons_, side-projects & frontend communities
@@ -14,7 +14,7 @@ _FRONTEND DEVELOPER_ 🚀
 - ☕ Always up for a code review and a cup of coffee.
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <code><img height="40" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" alt="cpp"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/364/982/png-transparent-python-programming-language-computer-programming-language-angle-text-computer-thumbnail.png" alt="python"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_tMa1St1KwkT8U81V4nrQsBSmkayPAo2Rg&usqp=CAU" alt="html"></code>
@@ -27,7 +27,7 @@ _FRONTEND DEVELOPER_ 🚀
 <code><img height="40" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
 
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/akansha-bharti/)  
 - [Twitter](https://x.com/Akansha_1213)
 - [Portfolio](https://akansha.site)
