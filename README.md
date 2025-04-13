@@ -1,19 +1,20 @@
 <div align="center">
 
-# Hi there 😃, I am _Akansha Bharti_ 
+# Hi there, I am _Akansha Bharti_ 👋
 </div>
 
 _FRONTEND DEVELOPER_ 🚀
 
-
-- 🔭 I’m currently working with _JavaScript, ReactJS_
-- 🌱 I’m currently learning & exploring  _Django, ML_ 
-- 👯 I’m looking to collaborate in _Web2 and Web3 Based Hackathons_
-- 📫 How to reach me:  _[LinkedIn](https://www.linkedin.com/in/akansha-bharti/), [akanshabharti1213@gmail.com](akanshabharti1213@gmail.com), [Twitter](https://twitter.com/Akansha_1213)_
+# 👩‍💻 About Me
+- 🔭 Currently shaping UI using _React.js_ and modern frontend practices
+- 💡 I’m passionate about building clean, user-focused UIs and optimizing performance
+- 👯 Open to collaborate in _Web2 Hackathons_, side-projects & frontend communities
+- 🎯 Always refining: whether it’s untangling legacy code or building reusable component systems
 - 😄 Pronouns: _She/her_
+- ☕ Always up for a code review and a cup of coffee.
 
 
-# Skills
+# 🛠️ Tech Stack
 <code><img height="40" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" alt="cpp"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/364/982/png-transparent-python-programming-language-computer-programming-language-angle-text-computer-thumbnail.png" alt="python"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_tMa1St1KwkT8U81V4nrQsBSmkayPAo2Rg&usqp=CAU" alt="html"></code>
@@ -26,13 +27,11 @@ _FRONTEND DEVELOPER_ 🚀
 <code><img height="40" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
 
 
-# Connect with me
-<a href="https://www.linkedin.com/in/akansha-bharti/">
-  <img src="https://assets-global.website-files.com/62573309268f9df7fb973ab8/630cdba01763f100980b090f_5e8fc7a5c3c15b69d9c87be0_1200px-Linkedin.svg.png" width="50" height="50" alt="LinkedIn Badge">&nbsp
-</a>
-<a href="https://twitter.com/Akansha_1213">
-  <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" width="50" height="50" alt="Twitter Badge">
-</a>&nbsp
+# 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/akansha-bharti/)  
+- [Twitter](https://x.com/Akansha_1213)
+- [Portfolio](https://akansha.site)
+- 📧 Email: _akanshabharti1213@gmail.com_
 
 
 
