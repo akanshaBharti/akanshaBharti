@@ -30,7 +30,7 @@ _FRONTEND DEVELOPER_ 🚀
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/akansha-bharti/)  
 - [Twitter](https://x.com/Akansha_1213)
-- [Portfolio]([https://akansha.site](https://akansha-bharti.netlify.app/))
+- [Portfolio](https://akansha-bharti.netlify.app/)
 - 📧 Email: _akanshabharti1213@gmail.com_
 
 
