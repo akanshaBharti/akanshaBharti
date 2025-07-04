@@ -16,7 +16,7 @@ _FRONTEND DEVELOPER_ 🚀
 
 ## 🛠️ Tech Stack
 <p>
- <img height="5" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactJS">
+ <img height="5px" width="5px" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactJS">
 </p>
 
 
