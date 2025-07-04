@@ -15,18 +15,9 @@ _FRONTEND DEVELOPER_ 🚀
 
 
 ## 🛠️ Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactJS"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql"/>
-  <img height="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git"/>
-</div>
+<p>
+ <img height="5" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactJS">
+</p>
 
 
 
