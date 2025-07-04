@@ -22,9 +22,9 @@ _FRONTEND DEVELOPER_ 🚀
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css"></code>
 <code><img height="40px" width="40px" src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" alt="javascript"></code>
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactJS"></code>
-<code><img height="40px" width="40px" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwindcss"></code>
+<code><img height="40px" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="tailwindcss"></code>
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" alt="materialui"></code>
-<code><img height="40px" width="40px" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-923x1024-37xcgdyl.png" alt="mysql"></code>
+<code><img height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png" alt="mysql"></code>
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
 </p>
 
