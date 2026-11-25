@@ -25,8 +25,10 @@ _FULL STACK DEVELOPER_ 🚀
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css"></code>
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/364/982/png-transparent-python-programming-language-computer-programming-language-angle-text-computer-thumbnail.png" alt="python"></code>
 <code><img height="40px" width="40px" src="https://images.seeklogo.com/logo-png/39/1/django-logo-png_seeklogo-394570.png" alt="django"></code>
-<code><img height="40px" width="40px" src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" alt="mysql"></code>
+<code><img height="40px" width="40px" src="[https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png](https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png)" alt="mysql"></code>
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
+<code><img height="40px" width="40px" src="[https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png](https://play-lh.googleusercontent.com/XSuGv_-mSjTKxiNrEAguXNLi7biMG1bJawEtiVQgmlfadUU_6yk9PXgFuJfS5XaHl2V8j8-vNjshD1PBAEFFDiM=s0-br30)" alt="postgresql"></code>
+<code><img height="40px" width="40px" src="[https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFzwmCoZlk9Cu4815chB_sGDsBXR8ZuTB74hc7XLPAA&s=10)" alt="docker"></code>
 </p>
 
 
