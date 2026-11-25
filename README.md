@@ -27,8 +27,8 @@ _FULL STACK DEVELOPER_ 🚀
 <code><img height="40px" width="40px" src="https://images.seeklogo.com/logo-png/39/1/django-logo-png_seeklogo-394570.png" alt="django"></code>
 <code><img height="40px" width="40px" src="[https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png](https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png)" alt="mysql"></code>
 <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="git"></code>
-<code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="postgresql"></code>
-<code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="docker"></code>
+<!-- <code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="postgresql"></code>
+<code><img height="40px" width="40px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="docker"></code> -->
 </p>
 
 
